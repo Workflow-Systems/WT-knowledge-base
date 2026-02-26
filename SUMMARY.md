@@ -34,6 +34,7 @@
 * [Сохранение вложенных сущностей](platform-wt/saving-nested-entities.md)
 * [Диаграммы](platform-wt/charts.md)
 * [Загрузка данных](platform-wt/data-loading.md)
+* [Export to PDF](platform-wt/export-to-pdf.md)
 
 ## SQL
 
