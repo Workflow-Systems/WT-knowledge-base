@@ -267,7 +267,7 @@ IP-адрес или доменное имя компьютера, на кото
 
 ### WebFormsFolder <a href="#web_forms_folder" id="web_forms_folder"></a>
 
-Путь до папки, в которой лежат xml-файлы web-версии WT-приложения.
+Путь до папки, в которой лежат xml-файлы web-версии WT-приложения. Это поле необходимо для [службы обновления](https://wfsys.gitbook.io/workflow-technology/platform-description/platform-architecture#workflow-updater).
 
 Необязательное поле. Ожидается абсолютный путь до папки.
 
@@ -279,7 +279,7 @@ IP-адрес или доменное имя компьютера, на кото
 
 ### WebBinaryPath <a href="#web_binary_path" id="web_binary_path"></a>
 
-Абсолютный путь до папки, в которой лежат бинарные файлы web-версии WT-приложения.
+Абсолютный путь до папки, в которой лежат бинарные файлы web-версии WT-приложения. Это поле необходимо для [службы обновления](https://wfsys.gitbook.io/workflow-technology/platform-description/platform-architecture#workflow-updater).
 
 Необязательное поле. Ожидается абсолютный путь до папки.
 
